@@ -18,4 +18,4 @@ I'm a student with a passion for computer science.
 - [[LinkedIn](https://www.linkedin.com/in/felix-stegemann-131333301/)]
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[flxs007]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flxs007&show_icons=true&theme=radical)
