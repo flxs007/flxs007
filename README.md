@@ -1,6 +1,4 @@
-# 👋 I'm Felix
-
-I'm a student with a passion for computer science. 
+# 👋
 
 ## 🔭 Currently Working On
 - Study-planner-app 
