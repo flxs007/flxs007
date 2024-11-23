@@ -12,7 +12,7 @@
         "nodejs",
         "html"
     ],
-    "age": 18,
+    "age": 17,
     "instagram": "felix_stgmn"
 
 }
