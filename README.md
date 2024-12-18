@@ -20,8 +20,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=flxs007&theme=synthwave&show_icons=true&a=bal">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatric&langs_count=4">
 
-## 📫
-- [LinkedIn](https://www.linkedin.com/in/felix-stegemann-131333301/)
+
 
 ## 🔭 Currently Working On
 - EcoMapper
