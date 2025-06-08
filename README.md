@@ -22,6 +22,3 @@
 
 
 
-## 🔭 Currently Working On
-- EcoMapper
-- Exercise counter via computer vision
